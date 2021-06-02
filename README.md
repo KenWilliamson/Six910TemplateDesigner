@@ -1,5 +1,7 @@
 ![](./six910.png)
 
+[Use this Designer Instead](https://github.com/Ulbora/Six910-Template-Designer)
+
 # Six910 Template Designer
 
 ### This is the template designer for Six910 Shopping Cart System
